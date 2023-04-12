@@ -11,7 +11,7 @@
   </h2>
   <ul>
     <li>HSE SE 1st year student</li>
-    <li>Currently learning: C# .NET, Python, HTML</li>
+    <li>Currently learning: C# .NET, Python, HTML, C++</li>
     <li>Text me in TG: @sooootireeeed or blkvmr7489@gmail.com</li>
   <ul/>
 </div>
