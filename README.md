@@ -10,8 +10,8 @@
     :woman_technologist: About Me :
   </h2>
   <ul>
-    <li>HSE SE 1st year student</li>
-    <li>Currently learning: C# .NET, Python, HTML, C++</li>
+    <li>HSE Softare Engineering 1st year student</li>
+    <li>Stack: C# .NET, Python(pandas, requests), HTML, C++, SQL, Mathlab</li>
     <li>Text me in TG: @sooootireeeed or blkvmr7489@gmail.com</li>
   <ul/>
 </div>
