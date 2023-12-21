@@ -11,7 +11,7 @@
   </h2>
   <ul>
     <li>HSE Softare Engineering 2nd year student</li>
-    <li>Stack: C# .NET, C++, Java, Swift, Python(pandas, requests), SQL</li>
+    <li>Stack: Java, C++, Swift, C# .NET, Python(pandas, requests), SQL</li>
     <li>Text me in TG: @sooootireeeed or blkvmr7489@gmail.com</li>
   <ul/>
 </div>
