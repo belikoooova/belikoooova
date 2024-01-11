@@ -15,3 +15,5 @@
     <li>Text me in TG: @sooootireeeed or blkvmr7489@gmail.com</li>
   <ul/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
