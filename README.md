@@ -10,8 +10,8 @@
     :woman_technologist: About Me :
   </h2>
   <ul>
-    <li>HSE Softare Engineering 2nd year student</li>
-    <li>Stack: Java, C++, Swift, C# .NET, Python(pandas, requests), SQL</li>
+    <li>HSE Softare Engineering 3nd year student</li>
+    <li>Stack: Java, Python ML/DL, Go, C++, Swift, C# .NET</li>
     <li>Text me in TG: @sooootireeeed or blkvmr7489@gmail.com</li>
   <ul/>
 </div>
